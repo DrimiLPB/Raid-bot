@@ -1,0 +1,8 @@
+{
+	"token": "le token de ton bot ",
+	"prefix": "!",
+	"servername": "Se que tu veux",
+	"serverpp": "Lien de la photo que tu veux mettre au discord",
+	"spammessage": "Le message a spam",
+	"nomdessalons": "Nom des salons qui vont être crée"
+}
